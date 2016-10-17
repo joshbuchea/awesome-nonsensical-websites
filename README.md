@@ -8,4 +8,5 @@
 - [Nooooooooo!](http://www.nooooooooooooooo.com/)
 - [Nyan Cat](http://nyan.cat/)
 - [The Revolving Internet](http://therevolvinginternet.com/)
+- [The Useless Web](http://www.theuselessweb.com/)
 - [Pointer Pointer](http://pointerpointer.com/)
