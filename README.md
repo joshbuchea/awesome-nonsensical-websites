@@ -10,3 +10,5 @@
 - [The Revolving Internet](http://therevolvinginternet.com/)
 - [The Useless Web](http://www.theuselessweb.com/)
 - [Pointer Pointer](http://pointerpointer.com/)
+- [Is My Computer On](http://ismycomputeron.com/)
+- [Is My Computer On Fire](http://ismycomputeronfire.com/)
