@@ -12,3 +12,4 @@
 - [Pointer Pointer](http://pointerpointer.com/)
 - [Is My Computer On](http://ismycomputeron.com/)
 - [Is My Computer On Fire](http://ismycomputeronfire.com/)
+- [crzy.site](https://crzy.site/)
